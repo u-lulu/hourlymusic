@@ -1,9 +1,9 @@
 {
-    "name": "hourly music",
+    "name": "hourlymusic",
     "Id": "siryhara.hourlymusic",
     "PackPath": "hourlymusic.pck",
     "description": "A mod that plays ACGCN hourly music in real-time!",
-    "version": "1.0.0",
+    "version_number": "1",
     "website_url": "https://github.com/tanapo-po/hourly-music",
     "dependencies": []
   }
