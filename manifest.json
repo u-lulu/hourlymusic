@@ -4,6 +4,7 @@
     "PackPath": "hourlymusic.pck",
     "description": "A mod that plays ACGCN hourly music in real-time!",
     "version_number": "1",
+    "version": "1.0.0",
     "website_url": "https://github.com/tanapo-po/hourly-music",
     "dependencies": []
   }
