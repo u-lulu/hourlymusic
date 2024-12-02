@@ -1,6 +1,1 @@
-this mod plays the animal crossing gamecube hourly music in real-time adds 24 music tracks, these tracks change every real-time hour!
-
-more osts will be added in the near future!
-
-All rights to the music used belong to their respective owners. I do not claim ownership over any content used.
-Animal Crossing is owned by Nintendo. These tracks can be removed upon legitimate request.
+This is a reupload of [hourlymusic](https://thunderstore.io/c/webfishing/p/siryhara_tanapo/hourlymusic/) that follows the correct package format for mod managers so it can work with [r2modman](https://thunderstore.io/c/webfishing/p/ebkr/r2modman/) and [Gale](https://thunderstore.io/c/webfishing/p/Kesomannen/GaleModManager/). This package will be deprecated when the original package is updated to address this issue.
